@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/furnish-finder/static/css/main.3b7825b0.chunk.css",
+    "main.js": "/furnish-finder/static/js/main.015adc0d.chunk.js",
+    "main.js.map": "/furnish-finder/static/js/main.015adc0d.chunk.js.map",
+    "runtime-main.js": "/furnish-finder/static/js/runtime-main.aa501d0a.js",
+    "runtime-main.js.map": "/furnish-finder/static/js/runtime-main.aa501d0a.js.map",
+    "static/js/2.a2d36119.chunk.js": "/furnish-finder/static/js/2.a2d36119.chunk.js",
+    "static/js/2.a2d36119.chunk.js.map": "/furnish-finder/static/js/2.a2d36119.chunk.js.map",
+    "index.html": "/furnish-finder/index.html",
+    "precache-manifest.fe01747e89f087ccb6e656def57ca494.js": "/furnish-finder/precache-manifest.fe01747e89f087ccb6e656def57ca494.js",
+    "service-worker.js": "/furnish-finder/service-worker.js",
+    "static/css/main.3b7825b0.chunk.css.map": "/furnish-finder/static/css/main.3b7825b0.chunk.css.map",
+    "static/js/2.a2d36119.chunk.js.LICENSE.txt": "/furnish-finder/static/js/2.a2d36119.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa501d0a.js",
+    "static/js/2.a2d36119.chunk.js",
+    "static/css/main.3b7825b0.chunk.css",
+    "static/js/main.015adc0d.chunk.js"
+  ]
+}
